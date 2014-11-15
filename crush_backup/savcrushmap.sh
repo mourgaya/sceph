@@ -1,5 +1,6 @@
 #!/bin/sh
 #eric.mourgaya@gmail.com
+# Licence MIT
 # this script is ruling the  apache Licence.
 # keep the last seven backup
 #crontab
